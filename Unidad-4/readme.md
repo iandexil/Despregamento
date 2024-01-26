@@ -1,3 +1,3 @@
 #FTP ian
 
-  Están todos los apartados hechos
+  Falta el apartado 6
